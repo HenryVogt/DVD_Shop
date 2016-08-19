@@ -1,0 +1,24 @@
+		<tr>
+			<td>Produkt-Nr.</td>
+	        <td>{product[prod_id]}</a></td>
+		</tr>
+		<tr>
+			<td>Kategorie</td>
+	        <td><a href="{root_path}/produkte?categoryname={product[categoryname]}">{product[categoryname]}</a></td>
+		</tr>
+		<tr>
+			<td>Bezeichnung</td>
+	        <td>{product[title]}</td>
+		</tr>
+		<tr>
+			<td>Schauspieler</td>
+	        <td>{product[actor]}</td>
+		</tr>
+		<tr>
+			<td>Preis</td>
+	        <td>{product[price]}</td>
+		</tr>
+		<tr>
+			<td>Special</td>
+	        <td>{product[special]}</td>
+		</tr>

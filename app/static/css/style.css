@@ -1,0 +1,11 @@
+th {
+    white-space: nowrap;
+}
+
+.btn-link {
+    padding: 0;
+}
+
+.search_field {
+    padding: 12px 0;
+}

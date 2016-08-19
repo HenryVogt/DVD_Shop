@@ -1,0 +1,1 @@
+Kunde {customer[firstname]} {customer[lastname]} ({customer[customerid]}) bearbeiten

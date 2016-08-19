@@ -1,0 +1,1 @@
+<li class="previous"><a href="{href}"><span aria-hidden="true">&larr;</span> Zurück zu Seite {page}</a></li>
